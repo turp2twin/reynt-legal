@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Reynt SMS Consent Form</title><link rel="stylesheet" href="style.css"></head>
+<body><main>
+<nav><a href="index.html">Home</a><a href="consent-form.html">Consent Form</a><a href="privacy.html">Privacy Policy</a><a href="terms.html">SMS Terms</a></nav>
+<p class="noprint">This is the paper form tenants and vendors fill out and sign to receive Reynt maintenance texts. It is printed and kept by the property manager.</p>
+<div class="form">
+<h2>Reynt Maintenance Text Messages: Consent Form</h2>
+<p class="label">Nik Turpin, Property Manager · reynt.help@gmail.com</p>
+<div class="label">Full name</div><div class="field"></div>
+<div class="label">Property and unit (tenants) or company and trade (vendors)</div><div class="field"></div>
+<div class="label">Mobile phone number</div><div class="field"></div>
+<div class="consent"><span class="box"></span><span><strong>I agree to receive maintenance and service text messages from Reynt</strong> at the mobile number above. These include maintenance request updates, arrival times, job requests and links to view or update a request. Message frequency varies. Msg &amp; data rates may apply. Reply HELP for help, STOP to opt out at any time. Consent is not a condition of renting, of any purchase, or of working with the property manager. See the SMS Terms (<a href="terms.html">terms.html</a>) and Privacy Policy (<a href="privacy.html">privacy.html</a>) on this site.</span></div>
+<div class="label">Signature</div><div class="field"></div>
+<div class="label">Date</div><div class="field"></div>
+</div>
+</main></body></html>
